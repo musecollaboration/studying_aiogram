@@ -1,1 +1,1 @@
-print('qwerty')
+print('ячсмс')
